@@ -1,0 +1,10 @@
+- Streamlit app
+
+- SQLAlchemy + Postgres driver
+
+- Excel reading (openpyxl)
+
+- Visualizations (plotly)
+
+- Pandas for data handling
+
